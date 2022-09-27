@@ -1,0 +1,382 @@
+body {
+	margin: 0px;
+}
+
+content {
+	margin: 0 auto;
+}
+
+.header-div {
+	text-align: center;
+	padding-top: 55px;
+}
+
+.header-up {
+	color: #fff;
+	text-decoration: none;
+	margin: 0px 30px 0px 30px;
+}
+
+.header-img {
+	background-image: linear-gradient(rgba(0, 255, 220, 0.8),rgba(111, 255, 175, 0.8)),url("photo/dark-wallpapers.webp");
+	width: 100%;	
+	height: 1337px;
+	object-fit: cover;
+	background-size: cover;
+	background-position: center;
+}
+
+.header-34 {
+	margin: 12% 0px 0px 30%
+}
+
+.text {
+	color: #fff;
+	margin: 350px 0px 26px 15%;
+	font-size: 65px;
+}
+
+.text2 {
+	color: #fff;
+	margin: 0px 0px 26px 15%;
+	font-size: 20px;
+}
+
+.text3 {
+	text-decoration: none;
+	margin: 0px 0px 0px 15%;
+	background-color: #2d4e66;
+	color: #fff;
+	padding: 7px 20px 7px 20px;
+	border: 1px solid #fff;
+	border-radius: 7px;
+}
+
+.text4 {
+	text-decoration: none;
+	margin: 0px 0px 0px 0px;
+	background-color: #00000000;
+	color: #457ba3;
+	padding: 7px 20px 7px 20px;
+	border: 1px solid #fff;
+	border-radius: 7px;
+}
+
+.header-text {
+	margin: 0px 0px 0px 12%;
+}
+
+.sign-up {
+	background-color: #00000000;
+	color: #fff;
+	padding: 7px 20px 7px 20px;
+	border: 1px solid #fff;
+	border-radius: 7px;
+}
+
+.video_item {
+	margin: 0px 0px 0px 0px;
+}
+
+.header-video {
+	display: flex;
+	align-items: center;
+}
+
+.video_item {
+	width: 630px;
+}
+
+.header2 {
+	margin: 0px 0px 0px 0px;
+	color: #fff;
+}
+
+.header3 {
+	margin: 0px 0px 0px 0px;
+	color: #fff;
+}
+
+.photo {
+	width: 100%;
+
+}
+
+.LoremIpsum1 {
+	text-align: center;
+	font-size: 45px;
+	margin-top: 120px;
+}
+
+.LoremIpsum2 {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 15px;
+	opacity: 0.4;
+}
+
+.LoremIpsum3 {
+	text-align: center;
+	font-size: 25px;
+	margin-top: 15px;
+	opacity: 0.4;
+}
+
+.wer {
+	display: flex;
+	text-align: center;
+	margin: 120px 0px 0px 8%;
+	
+}
+
+.wer-32 {
+	text-align: center;
+	margin: 0px 90px 0px 0px;
+}
+
+.get-started {
+	width: 105px;
+	background-color: #1de9b6;
+	color: #fff;
+	padding: 13px 25px 13px 25px;
+	border: 1px solid #fff;
+	border-radius: 7px;
+	margin: 70px auto;
+}
+
+.div-box {
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.div-box-2 {
+	width: 440px;
+	height: 220px;
+	background-color: #80d8ff;
+}
+
+.div-box-3 {
+	width: 440px;
+	height: 220px;
+	background-color: #82b1ff;
+}
+
+.div-box-3-img {
+	display: block;
+	margin: 80px auto;
+}
+
+.div-box-4 {
+	width: 440px;
+	height: 220px;
+	background-color: #b388ff;
+}
+
+.div-box-5 {
+	width: 440px;
+	height: 220px;
+	background-color: #ea80fc;
+}
+
+.p1 {
+	text-align: center;
+	font-size: 46px;
+	margin: 80px 0px 0px 0px;
+}
+
+.p2 {
+	margin: 20px 0px 0px 0px;
+	text-align: center;
+	font-size: 16px;
+	opacity: 0.4;
+}
+
+.wrapper {
+	width: 1000px;
+	height: 700px;
+	margin: 60px auto;
+}
+
+.card {
+	width: 900px;
+	height: 300px;
+	background-color: #d3cfbd;
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+	box-shadow: 0px 0px 20px 2px #978f8f;
+	border-radius: 6px;
+}
+
+.card2 {
+	display: flex;
+}
+
+.card3 {
+	display: flex;
+}
+
+.card-img {
+
+}
+
+.content-text1 {
+	font-size: 50px;
+}
+
+.content-text2 {
+	font-size: 20px;
+}
+
+.button-a {
+	border: 20px;
+	text-decoration: none;
+	padding: 20px 15px;
+	background-color: #061e37;
+	color: #fff;
+}
+
+.content-photo {
+	background-image: linear-gradient(rgba(0, 255, 220, 0.8),rgba(111, 255, 175, 0.8)),url("photo/2906-fact-main-840.jpg");
+	width: 100%;	
+	height: 890px;
+	object-fit: cover;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	display: flex;
+}
+
+.content-photo2 {
+	margin: 0 auto;
+}
+
+.content-photo-1 {
+	border-radius: 90px;
+	float: left;
+}
+
+.content2 {
+	width: 1560px;
+	margin: 0 auto;
+}
+
+.content-div-text {
+	width: 650px;
+	height: 150px;
+	margin: 100px;
+	background-color: #fff;
+}
+
+.fuut {
+	width: 650px;
+	margin: 0 auto;
+}
+
+.footer-up {
+	width: 100%;
+	height: 550px;
+	background-color: #fafafa;
+}
+
+.footer-up2 {
+	width: 650px;
+	height: 550px;
+	margin: 0 auto;
+}
+
+.First {
+	margin: 7px;
+	width: 300px;
+	height: 42px;
+	color: #061e37;
+	border-radius: 6px;
+}
+
+.Message {
+	margin: 7px;
+	width: 628px;
+	height: 135px;
+	color: #061e37;
+	border-radius: 6px;
+}
+
+.checkbox {
+	border: 20px;
+	text-decoration: none;
+	padding: 15px 35px;
+	background-color: #1de9b6;
+	color: #fff;
+	border-radius: 6px;
+	margin-left: 51%;
+}
+
+.footer {
+	width: 100%;
+	height: 250px;
+	background-color: #061e37;
+}
+
+.footer2 {
+	width: 90%;
+	height: 50%;
+	background-color: red;
+	margin: auto;
+}
+
+.footer-a {
+	text-decoration: none;
+	color: #fff;
+	margin: 0px 20px 0px 20px;
+}
+
+@media (max-width: 2560px){
+	.wer {margin: 120px 0px 0px 25%}
+}
+@media (max-width: 1440px){
+	.header-img {width: 1750px; height: 1000px;}
+	.wer {margin: 120px 0px 0px 8%}
+}
+@media (max-width: 1024px){
+	.wer {margin: 120px 0px 0px 8%;}
+	.header-img {width: 1560px;}
+}
+@media (max-width: 768px){
+	.header-34 {margin:0px}
+	.header-video {flex-direction: row}
+	.header-img { margin: 0px 0px 0px 0px}
+
+}
+@media (max-width: 425px){
+	.header-img {height: 1100px; width: 1700px;}
+	.content-div-text {width: 400px; height: 300px;}
+	.card {width: 360px; height: 170px;}
+	.header-text {margin: -230px 0px 90px 9%;}	
+	.header-34 {margin: 0px 0px 0px 17%;}
+	.LoremIpsum1 {margin: 60px 0px 0px 270px;}
+	.wer {margin: 0px; display: flex; flex-direction: column;}
+	.wer-img {width: 300px;}
+	.get-started {margin: 90px 0px 90px 550px;}
+	.div-box {margin: 0px 0px 0px 255px; display: flex; flex-wrap: wrap;}
+	.p {margin: 90px -150px 0px 340px;}
+	.content-photo {height: 950px; width: 998px;}
+	.fuut {margin: 50px 0px 0px 180px;}
+	.footer-up {margin: 0px 0px 0px 155px;}
+	.footer {width: 1000px;}
+}
+@media (max-width: 375px) {
+	.header-video {flex-direction: column}
+}
+
+@media (max-width: 320px){
+	.header-img {height: 1135px; width: 1280px;}
+	.header-video {flex-wrap: wrap}
+	.wer {margin: 70px 0px 0px 360px; flex-direction: column}
+	.wer-34 {margin: 0px 280px 0px 0px;}
+	.wer-img {width: 300px;}
+	.p {margin: 90px 0px 0px 250px;}
+	.content-photo {height: 1150px; width: 1000px;}
+	.content2 {width: 1000px;}
+	.footer {width: 1000px;}
+	.wrapper {margin: 80px 0px 0px 140px;}
+}
